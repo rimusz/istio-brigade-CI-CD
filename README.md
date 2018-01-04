@@ -1,6 +1,6 @@
-# KubeCon 2017 Demo
+# KubeCon 2017 Istio and Brigade CI/CD Demo
 
-I presented this demo at KubeCon + CloudNativeCon North America 2017
+Brian Redmond presented this demo at KubeCon + CloudNativeCon North America 2017
 
 Details of the talk are here: https://kccncna17.sched.com/event/CU7b 
 
